@@ -15,7 +15,7 @@
                       {
                           tipo: 'texto',
                           codigo: 1,
-                          nombre: 'Casilla',
+                          nombre: 'precio',
                           valor: 'Texto'
 
                       }]
