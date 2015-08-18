@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b96dfaeb-fc22-4e45-ade4-f62024edd938" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/componente-secciones.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/formulario.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/formulario2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="DELETED" beforePath="C:\Desarrollo\AngularJs\Demo1\node_modules\.bin\bower" afterPath="" />
-      <change type="DELETED" beforePath="C:\Desarrollo\AngularJs\Demo1\node_modules\.bin\bower.cmd" afterPath="" />
-      <change type="DELETED" beforePath="C:\Desarrollo\AngularJs\Demo1\node_modules\bower\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Desarrollo\AngularJs\Demo1\public\components\angular\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Desarrollo\AngularJs\Demo1\public\components\angular\package.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vacio.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Example1.html" afterPath="$PROJECT_DIR$/public/Example1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Lib/Example1.js" afterPath="$PROJECT_DIR$/public/Lib/Example1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/componente-password.html" afterPath="$PROJECT_DIR$/public/componente-password.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/componente-seccion.html" afterPath="$PROJECT_DIR$/public/componente-seccion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/componente-texto.html" afterPath="$PROJECT_DIR$/public/componente-texto.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Demo1.iws" />
@@ -50,8 +34,8 @@
             <file leaf-file-name="Example1.js" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/public/Lib/Example1.js">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state vertical-scroll-proportion="0.7601881" vertical-offset="1351" max-vertical-offset="1989">
-                    <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+                  <state vertical-scroll-proportion="0.45616883" vertical-offset="8" max-vertical-offset="2244">
+                    <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
                     <folding />
                   </state>
                 </provider>
@@ -68,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Example1.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Example1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/Example1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="374">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.38908452" vertical-offset="0" max-vertical-offset="568">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -88,6 +72,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="componente-seccion.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/componente-seccion.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="442">
+              <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="componente-password.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/componente-password.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="componente-seccion.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/componente-seccion.html">
+      <file leaf-file-name="vacio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/vacio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.124542125" vertical-offset="0" max-vertical-offset="546">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -121,8 +115,8 @@
       <file leaf-file-name="componente-secciones.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/componente-secciones.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="204">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -151,14 +145,15 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/.bowerrc" />
         <option value="$PROJECT_DIR$/public/Lib/componente-secciones.html" />
-        <option value="$PROJECT_DIR$/public/Example1.html" />
-        <option value="$PROJECT_DIR$/public/componente-secciones.html" />
         <option value="$PROJECT_DIR$/public/componente-password.html" />
-        <option value="$PROJECT_DIR$/public/componente-seccion.html" />
         <option value="$PROJECT_DIR$/public/formulario.json" />
         <option value="$PROJECT_DIR$/public/formulario2.json" />
-        <option value="$PROJECT_DIR$/public/Lib/Example1.js" />
         <option value="$PROJECT_DIR$/public/componente-texto.html" />
+        <option value="$PROJECT_DIR$/public/vacio.html" />
+        <option value="$PROJECT_DIR$/public/componente-secciones.html" />
+        <option value="$PROJECT_DIR$/public/Lib/Example1.js" />
+        <option value="$PROJECT_DIR$/public/componente-seccion.html" />
+        <option value="$PROJECT_DIR$/public/Example1.html" />
       </list>
     </option>
   </component>
@@ -174,9 +169,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="907" />
-    <option name="height" value="745" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -290,6 +286,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="js.buildTools.gulp.node_interpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -652,7 +649,7 @@
       <workItem from="1439858227041" duration="543000" />
       <workItem from="1439859110484" duration="1129000" />
       <workItem from="1439860243166" duration="14259000" />
-      <workItem from="1439911259256" duration="7686000" />
+      <workItem from="1439911259256" duration="14019000" />
     </task>
     <task id="LOCAL-00001" summary="example1">
       <created>1439860482457</created>
@@ -672,15 +669,21 @@
       <option name="project" value="LOCAL" />
       <updated>1439877116961</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creacion de componentes con ng-include&#10;">
+      <created>1439919109683</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1439919109683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24268000" />
+    <option name="totallyTimeSpent" value="30601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="907" height="745" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -696,7 +699,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32636657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25383708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16263238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -755,7 +758,8 @@
     <MESSAGE value="example1" />
     <MESSAGE value="Avance de interfaz&#10;" />
     <MESSAGE value="componente password&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="componente password&#10;" />
+    <MESSAGE value="creacion de componentes con ng-include&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="creacion de componentes con ng-include&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -855,42 +859,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/componente-secciones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/componente-password.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="568">
-          <caret line="0" column="84" selection-start-line="0" selection-start-column="84" selection-end-line="0" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/formulario2.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="464.74777" vertical-offset="0" max-vertical-offset="259896">
           <caret line="15282" column="1" selection-start-line="15282" selection-start-column="1" selection-end-line="15282" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/formulario.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.423077" vertical-offset="325" max-vertical-offset="1020">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/Example1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="374">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -903,18 +875,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/Lib/Example1.js">
+    <entry file="file://$PROJECT_DIR$/public/vacio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7601881" vertical-offset="1351" max-vertical-offset="1989">
-          <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/componente-secciones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="204">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/formulario.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.423077" vertical-offset="325" max-vertical-offset="1020">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/componente-password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="568">
+          <caret line="0" column="84" selection-start-line="0" selection-start-column="84" selection-end-line="0" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/componente-seccion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.124542125" vertical-offset="0" max-vertical-offset="546">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="442">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Lib/Example1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45616883" vertical-offset="8" max-vertical-offset="2244">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Example1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38908452" vertical-offset="0" max-vertical-offset="568">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding />
         </state>
       </provider>
