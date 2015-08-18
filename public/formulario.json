@@ -1,0 +1,55 @@
+{
+  "secciones": [
+    {
+      "codigo": 1,
+      "componentes": [
+        {
+          "tipo": "password",
+          "codigo": 1,
+          "nombre": "Casilla",
+          "valor": ""
+        },
+        {
+          "tipo": "texto",
+          "codigo": 1,
+          "nombre": "precio",
+          "valor": "Texto"
+        }
+      ]
+    },
+    {
+      "codigo": 2,
+      "componentes": [
+        {
+          "tipo": "password",
+          "codigo": 22,
+          "nombre": "Casilla22",
+          "valor": "44444"
+        },
+        {
+          "tipo": "texto",
+          "codigo": 1,
+          "nombre": "precio2",
+          "valor": "Texto"
+        }
+      ]
+    },
+    {
+      "codigo": 3,
+      "componentes": [
+        {
+          "tipo": "texto",
+          "codigo": 333,
+          "nombre": "precio2",
+          "valor": "Texto"
+        },
+        {
+          "tipo": "texto",
+          "codigo": 4555,
+          "nombre": "prueba ss",
+          "valor": "con valor"
+        }
+      ]
+    }
+  ]
+}

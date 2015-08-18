@@ -1,8 +1,15 @@
 
+<table border="2">
+    <tr>
+        <td>
+            <h1>Seccion {{seccion.codigo}}</h1>
+            <div ng-repeat = "component in seccion.componentes">
 
-<div ng-repeat = "con in formulario.seccion.componentes">
 
+                <ng-include src="'componente-'+component.tipo+'.html'"></ng-include>
 
-    <ng-include src="'componente-'+con.tipo+'.html'"></ng-include>
+            </div>
 
-</div>
+        </td>
+    </tr>
+</table>
