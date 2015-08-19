@@ -3,7 +3,7 @@
     var app = angular.module('Example1', []);
     app.controller('MyController', ['$scope', '$http', function ($scope, $http) {
 
-        $http.get('formulario2.json')
+        $http.get('formulario.json')
             .then(function (res) {
                 $scope.formulario = res.data;
             });
@@ -83,8 +83,8 @@
     app.directive('componenteSeccion', function () {
 
         return {
-         /*   replace: true,
-            template: '<div ng-repeat = "component in seccion.componentes">' +
+            replace: true,
+         /*   template: '<div ng-repeat = "component in seccion.componentes">' +
             '<ng-include src="&quot;componente-&quot;+component.tipo+&quot;.html&quot;"></ng-include>' +
                 ' </div> '
            */

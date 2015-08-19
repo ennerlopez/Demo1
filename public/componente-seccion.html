@@ -1,20 +1,11 @@
 
-<table border="2">
-    <tr>
-        <td>
+<div class="container">
             <h1>Seccion {{seccion.codigo}}</h1>
-            <div ng-repeat = "component in seccion.componentes">
+            <div ng-repeat-start = "component in seccion.componentes"></div>
 
+            <div ng  ng-if="component.tipo=='texto'" componente-x type="texto"></div>
+            <div  ng-if="component.tipo=='password'" componente-x type="password"></div>
 
-                <div  ng-if="component.tipo=='texto'" componente-x type="texto"></div>
-                <div  ng-if="component.tipo=='password'" componente-x type="password"></div>
+        <div ng-repeat-end></div>
 
-
-
-
-
-            </div>
-
-        </td>
-    </tr>
-</table>
+</div>
