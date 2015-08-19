@@ -1,11 +1,24 @@
 
-<div class="container">
-            <h1>Seccion {{seccion.codigo}}</h1>
-            <div ng-repeat-start = "component in seccion.componentes"></div>
 
-            <div ng  ng-if="component.tipo=='texto'" componente-x type="texto"></div>
-            <div  ng-if="component.tipo=='password'" componente-x type="password"></div>
+            <!--<h1>Seccion {{seccion.codigo}}</h1>-->
+            <!--<div ng-repeat-start = "component in seccion.componentes"></div>-->
 
-        <div ng-repeat-end></div>
+            <!--<div ng  ng-if="component.tipo=='texto'" componente-x type="texto"></div>-->
+            <!--<div  ng-if="component.tipo=='password'" componente-x type="password"></div>-->
 
-</div>
+        <!--<div ng-repeat-end></div>-->
+<!-- termina comentario-->
+
+            <div class="alert alert-success" role="alert">
+    <div class="row" ng-repeat = "fila in seccion.filas">
+        <!--<componente-fila></componente-fila>-->
+
+        <div ng-repeat="component in fila.componentes">
+            <div  class="col-lg-4 col-sm-3"  ng-if="component.tipo=='texto'" componente-x type="texto"></div>
+            <div  class="col-lg-4 col-sm-3"  ng-if="component.tipo=='password'" componente-x type="password"></div>
+            <div  class="col-lg-4 col-sm-3"  ng-if="component.tipo=='vacio'" componente-x type="vacio"></div>
+        </div>
+
+    </div>
+
+            </div>
