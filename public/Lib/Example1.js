@@ -12,6 +12,7 @@
             secciones: [
                 {
                     codigo: 1,
+                    descripcion: 'Seccion 1',
                     filas: [
 
                         {
@@ -72,7 +73,73 @@
                         }
 
                     ]
-                }]
+                },
+                {
+                    codigo: 2,
+                    descripcion: 'Seccion 2',
+                    filas: [
+
+                        {
+
+                            componentes: [
+                                {
+                                    tipo: 'password',
+                                    codigo: 1,
+                                    nombre: '[1,1]',
+                                    valor: ''
+
+                                },
+                                {
+                                    tipo: 'texto',
+                                    codigo: 2,
+                                    nombre: '[1,2]',
+                                    valor: 'Texto'
+
+                                },
+                                {
+                                    tipo: 'texto',
+                                    codigo: 2,
+                                    nombre: '[1,3]',
+                                    valor: 'Texto'
+
+                                }
+
+
+                            ]
+                        },
+                        {
+
+                            componentes: [
+                                {
+                                    tipo: 'password',
+                                    codigo: 3,
+                                    nombre: '[2,1]',
+                                    valor: ''
+
+                                },
+                                {
+                                    tipo: 'vacio',
+                                    codigo: 4,
+                                    nombre: '[2,2]',
+                                    valor: 'Texto'
+
+                                },
+                                {
+                                    tipo: 'password',
+                                    codigo: 4,
+                                    nombre: '[2,3]',
+                                    valor: ''
+
+                                }
+
+
+                            ]
+                        }
+
+                    ]
+                }
+
+            ]
 
         };
 
