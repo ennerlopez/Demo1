@@ -22,21 +22,24 @@
                                     tipo: 'password',
                                     codigo: 1,
                                     nombre: '[1,1]',
-                                    valor: ''
+                                    valor: '',
+                                    columnSpan : 4
 
                                 },
                                 {
                                     tipo: 'texto',
                                     codigo: 2,
                                     nombre: '[1,2]',
-                                    valor: 'Texto'
+                                    valor: 'Texto',
+                                    columnSpan : 4
 
                                 },
                                 {
                                     tipo: 'texto',
                                     codigo: 2,
                                     nombre: '[1,3]',
-                                    valor: 'Texto'
+                                    valor: 'Texto',
+                                    columnSpan : 4
 
                                 }
 
@@ -50,21 +53,24 @@
                                     tipo: 'password',
                                     codigo: 3,
                                     nombre: '[2,1]',
-                                    valor: ''
+                                    valor: '',
+                                    columnSpan : 4
 
                                 },
                                 {
                                     tipo: 'vacio',
                                     codigo: 4,
                                     nombre: '[2,2]',
-                                    valor: 'Texto'
+                                    valor: 'Texto',
+                                    columnSpan : 4
 
                                 },
                                 {
                                     tipo: 'password',
                                     codigo: 4,
                                     nombre: '[2,3]',
-                                    valor: ''
+                                    valor: '',
+                                    columnSpan : 4
 
                                 }
 
@@ -86,21 +92,24 @@
                                     tipo: 'password',
                                     codigo: 1,
                                     nombre: '[1,1]',
-                                    valor: ''
+                                    valor: '',
+                                    columnSpan : 4
 
                                 },
                                 {
                                     tipo: 'texto',
                                     codigo: 2,
                                     nombre: '[1,2]',
-                                    valor: 'Texto'
+                                    valor: 'Texto',
+                                    columnSpan : 4
 
                                 },
                                 {
                                     tipo: 'texto',
                                     codigo: 2,
                                     nombre: '[1,3]',
-                                    valor: 'Texto'
+                                    valor: 'Texto',
+                                    columnSpan : 4
 
                                 }
 
@@ -114,21 +123,25 @@
                                     tipo: 'password',
                                     codigo: 3,
                                     nombre: '[2,1]',
-                                    valor: ''
+                                    valor: '',
+                                    columnSpan : 4
+
 
                                 },
                                 {
                                     tipo: 'vacio',
                                     codigo: 4,
                                     nombre: '[2,2]',
-                                    valor: 'Texto'
+                                    valor: 'Texto',
+                                    columnSpan : 4
 
                                 },
                                 {
                                     tipo: 'password',
                                     codigo: 4,
                                     nombre: '[2,3]',
-                                    valor: ''
+                                    valor: '',
+                                    columnSpan : 4
 
                                 }
 
@@ -142,6 +155,10 @@
             ]
 
         };
+
+        $scope.css = function(valor){
+            return 'col-lg-'+valor+' col-sm-'+(valor-1)
+        }
 
 
     }]);

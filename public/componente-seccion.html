@@ -17,9 +17,9 @@
                 <!--<componente-fila></componente-fila>-->
 
                 <div ng-repeat="component in fila.componentes">
-                    <div class="col-lg-4 col-sm-3" ng-if="component.tipo=='texto'" componente-x type="texto"></div>
-                    <div class="col-lg-4 col-sm-3" ng-if="component.tipo=='password'" componente-x type="password"></div>
-                    <div class="col-lg-4 col-sm-3" ng-if="component.tipo=='vacio'" componente-x type="vacio"></div>
+                    <div ng-class="css(component.columnSpan)" class="col-lg-4 col-sm-3" ng-if="component.tipo=='texto'" componente-x type="texto"></div>
+                    <div ng-class="css(component.columnSpan)" ng-if="component.tipo=='password'" componente-x type="password"></div>
+                    <div ng-class="css(component.columnSpan)" ng-if="component.tipo=='vacio'" componente-x type="vacio"></div>
                 </div>
 
             </div>
